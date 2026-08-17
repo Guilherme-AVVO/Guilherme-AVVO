@@ -12,8 +12,7 @@
   <strong>automação de processos com IA</strong>, digitalizando operações que ainda
   dependem de planilha e papel.
   <br><br>
-  Fora do trabalho, meu ambiente é <strong>Arch Linux com Hyprland</strong>: tiling,
-  teclado no lugar do mouse e tudo configurado à mão.
+  Fora do trabalho, meu ambiente é <strong>Arch Linux com Hyprland</strong>
 </p>
 
 <p align="center">
