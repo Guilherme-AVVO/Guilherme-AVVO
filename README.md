@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Estudante de <strong>Ciência da Computação na FIAP</strong>, focado em construir aplicações de
+  <strong>Ciência da Computação na FIAP</strong>, focado em construir aplicações de
   alta performance — do desenho da API até o comportamento sob carga.
   <br><br>
   Hoje trabalho no desenvolvimento de <strong>sistemas ERP</strong> e na
