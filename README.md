@@ -1,7 +1,19 @@
 <h1 align="center">Guilherme Santos</h1>
 
 <p align="center">
-  <strong>Backend em Go</strong> · APIs REST · SQL/PostgreSQL · automações com IA local
+  <strong>Desenvolvedor Backend</strong> · Go · APIs REST · PostgreSQL · automações com IA
+</p>
+
+<p align="center">
+  Estudante de <strong>Ciência da Computação na FIAP</strong>, focado em construir aplicações de
+  alta performance — do desenho da API até o comportamento sob carga.
+  <br><br>
+  Hoje trabalho no desenvolvimento de <strong>sistemas ERP</strong> e na
+  <strong>automação de processos com IA</strong>, digitalizando operações que ainda
+  dependem de planilha e papel.
+  <br><br>
+  Fora do trabalho, meu ambiente é <strong>Arch Linux com Hyprland</strong>: tiling,
+  teclado no lugar do mouse e tudo configurado à mão.
 </p>
 
 <p align="center">
@@ -10,7 +22,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux">
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=black" alt="Hyprland">
 </p>
 
 ---
